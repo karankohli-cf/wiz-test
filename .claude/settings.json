@@ -1,0 +1,6 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://ai-gateway.contentful.tools",
+    "ANTHROPIC_AUTH_TOKEN": "sk-1A8Dc8-UdvnFfs7O6pnc9z"
+  }
+}
